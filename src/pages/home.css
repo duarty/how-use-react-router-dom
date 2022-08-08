@@ -1,0 +1,23 @@
+.home__container{
+    background-image: url("/src/images/infantil.jpg") ;
+    color: #2a5872;
+}
+Link{
+    
+        font-family: Poppins-Medium;
+        font-size: 12px;
+        line-height: 1.5;
+        color: white;
+        display: block;
+        width: 150px;
+        background: #2a5872;
+        border-radius: 5px;
+        height: 25px;
+        border: none;
+        padding: 0 10px 0 10px;
+        outline: none;
+        overflow: visible;
+        touch-action: manipulation;
+       
+    
+}
